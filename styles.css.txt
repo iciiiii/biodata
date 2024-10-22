@@ -2,7 +2,7 @@
 
 /* Bagian Header */
 header {
-    background-color: #343a40; /* Warna latar belakang header */
+    background-color: #6db2f7; /* Warna latar belakang header */
     color: white; /* Warna teks di header */
     padding: 40px 0; /* Padding bagian atas dan bawah */
 }
