@@ -1,0 +1,41 @@
+/* styles.css */
+
+/* Bagian Header */
+header {
+    background-color: #343a40; /* Warna latar belakang header */
+    color: white; /* Warna teks di header */
+    padding: 40px 0; /* Padding bagian atas dan bawah */
+}
+
+/* Foto Profil */
+header .profile img {
+    width: 150px; /* Ukuran foto */
+    height: 150px;
+    object-fit: cover; /* Memastikan foto tetap proporsional */
+    border: 5px solid white; /* Border putih di sekitar foto */
+}
+
+/* Judul Section */
+h2 {
+    border-bottom: 2px solid #343a40; /* Garis bawah judul section */
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    color: #343a40; /* Warna teks judul */
+}
+
+/* Tabel Identitas Diri */
+table.table-bordered {
+    background-color: #f8f9fa; /* Warna latar belakang tabel */
+}
+
+table.table-bordered td {
+    padding: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40; /* Warna latar belakang footer */
+    color: white;
+    padding: 20px 0;
+    margin-top: 20px;
+}
